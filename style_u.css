@@ -1,0 +1,33 @@
+.box_s {
+    margin: 1% 1% 1% 9%;
+    float: left;
+    width: 40%;
+    height: 35%;
+    background-color: #111;
+    padding: 1%;
+}
+.box_w {
+    margin: 1% 9% 1% 1%;
+    float: right;
+    width: 40%;
+    height: 35%;
+    background-color: #111;
+    padding: 1%;
+}
+h4 {
+    color: #fff;
+    font-size: 220%;
+    text-align: center;
+    margin: 15% 0 0 0;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.box_w:hover {
+    background-color: #333;
+}
+.box_s:hover {
+    background-color: #333;
+}
+footer {
+    position: fixed;
+}

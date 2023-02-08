@@ -1,0 +1,28 @@
+.tekst {
+    font-family: sans-serif;
+    margin: 10px 5px 15px 50px;
+    padding: 5px;
+}
+h2 {
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-weight: 600;
+}
+h3 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 3px;
+}
+ul {
+    font-size: 20px;
+    margin-left:30px;
+    list-style-type:"- ";
+}
+p.work {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 3px;
+}
+footer {
+    position: fixed;
+}
