@@ -1,0 +1,21 @@
+body {
+    background-image: url('hd-wallpaper-kompres.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1 {
+    font-weight:bold;
+    font-size: 60px;
+    font-family: sans-serif;
+    float: left;
+    margin: 40px 0 0 60px;
+    color: rgb(0, 0, 0);
+}
+a {
+    text-decoration: underline;
+    color: #3333ff;
+    float: left;
+    font-size: 30px;
+    margin: 75px 400px 0 60px;
+    font-weight: bolder;
+}
