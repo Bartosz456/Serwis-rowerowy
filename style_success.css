@@ -7,15 +7,22 @@ h1 {
     font-weight:bold;
     font-size: 60px;
     font-family: sans-serif;
-    float: left;
-    margin: 40px 0 0 60px;
-    color: rgb(0, 0, 0);
+    color: #000;
 }
 a {
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    text-decoration: none;
     color: #3333ff;
-    float: left;
     font-size: 30px;
-    margin: 75px 400px 0 60px;
     font-weight: bolder;
+}
+.box {
+    width: 40%;
+    height: 40%;
+    background-color: rgba(255,255,255,0.7);
+    padding: 2%;
+    text-align: center;
+    display: table-cell;
+    margin: auto;
+    vertical-align: middle;
 }
